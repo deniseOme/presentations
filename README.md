@@ -1,5 +1,5 @@
-# presentationsREADME.md - Teaching materials
+# presentationsREADME.md - Conferences
 
-This repository contains materials for my 2016 presentations for Ensembl and Ensembl Genomes workshops.
+This repository contains the slides of presentation at conferences.
 
 
