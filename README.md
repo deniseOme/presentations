@@ -1,6 +1,6 @@
 
 # Posters & Slides
 
-This repository contains posters and slides of my presentation at conferences on behalf of the Open Targets Consortium.
+This repository contains posters and slides of my presentations at conferences on behalf of the Open Targets Consortium.
 
 
