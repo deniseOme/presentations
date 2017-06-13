@@ -1,5 +1,5 @@
-# posters_presentations_README.md - Conferences
+#README.md
 
-This repository contains the slides of presentation at conferences.
+This repository contains posters and slides of my presentation at conferences on behalf of the Open Targets Consortium.
 
 
